@@ -2,6 +2,8 @@
         <ul>
 
 <p font color="yellow">[22, 27, 16, 2, 18, 6] -> Insertion Sort</p>
+<p>My favorite color is <del>blue</del> red.</p>
+
 
 <li>Write the steps of the given array's sorting process according to the sorting type.
 <li>Write the Big-O notation.
