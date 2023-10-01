@@ -2,6 +2,7 @@
         <ul>
 
 <p style="color:Tomato;">[22, 27, 16, 2, 18, 6] -> Insertion Sort</p>
+<p style="color:DodgerBlue;">Lorem ipsum...</p>
 
 
 <li>Write the steps of the given array's sorting process according to the sorting type.
